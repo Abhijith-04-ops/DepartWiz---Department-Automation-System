@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4e7e685-250f-48b3-82cb-4736df2ef384" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Depart_AI$Depart_AI.coverage" NAME="Depart.AI Coverage Results" MODIFIED="1732907425042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Depart.AI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Depart.AI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="508" column="28" lean-forward="false" selection-start-line="508" selection-start-column="28" selection-end-line="508" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1732905902441" expanded="true" signature="358:432" ph="select * fro... login" />
+                <marker date="1732905902441" expanded="true" signature="1324:1357" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="1766:1816" ph="select * fro... login" />
+                <marker date="1732905902441" expanded="true" signature="1988:2095" ph="insert into `login`... " />
+                <marker date="1732905902441" expanded="true" signature="2150:2377" ph="insert into `staff`... " />
+                <marker date="1732905902441" expanded="true" signature="2150:2378" ph="insert into `staff`... " />
+                <marker date="1732905902441" expanded="true" signature="2602:2635" ph="select cours... course" />
+                <marker date="1732905902441" expanded="true" signature="3051:3101" ph="select * fro... login" />
+                <marker date="1732905902441" expanded="true" signature="3271:3378" ph="insert into `login`... " />
+                <marker date="1732905902441" expanded="true" signature="3429:3673" ph="insert into `staff`... " />
+                <marker date="1732905902441" expanded="true" signature="4924:4948" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="4924:4971" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="4924:4972" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="4924:4981" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="5205:5280" ph="insert into `department`... " />
+                <marker date="1732905902441" expanded="true" signature="5819:5843" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="6206:6243" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="6206:6252" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="6206:6255" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="6627:6662" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="6627:6669" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="6906:6983" ph="update `depa... " />
+                <marker date="1732905902441" expanded="true" signature="6906:6986" ph="update `depa... " />
+                <marker date="1732905902441" expanded="true" signature="6906:6987" ph="update `depa... " />
+                <marker date="1732905902441" expanded="true" signature="7485:7520" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="7485:7521" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="7485:7528" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="7485:7530" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="7757:7800" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="8509:8549" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="8509:8560" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="8757:8819" ph="insert into `course`... " />
+                <marker date="1732905902441" expanded="true" signature="8757:8832" ph="insert into `course`... " />
+                <marker date="1732905902441" expanded="true" signature="8757:8840" ph="insert into `course`... " />
+                <marker date="1732905902441" expanded="true" signature="8757:8841" ph="insert into `course`... " />
+                <marker date="1732905902441" expanded="true" signature="9354:9451" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="9354:9501" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="9869:9911" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="10272:10303" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="10272:10310" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="10543:10617" ph="update `depa... " />
+                <marker date="1732905902441" expanded="true" signature="11086:11127" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="11086:11134" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="11357:11396" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="12218:12260" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="12218:12268" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="12218:12284" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="12218:12292" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="12486:12582" ph="insert into `subject`... " />
+                <marker date="1732905902441" expanded="true" signature="12486:12591" ph="insert into `subject`... " />
+                <marker date="1732905902441" expanded="true" signature="12486:12594" ph="insert into `subject`... " />
+                <marker date="1732905902441" expanded="true" signature="13108:13305" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="13644:13701" ph="select * fro... course" />
+                <marker date="1732905902441" expanded="true" signature="14063:14095" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="14063:14102" ph="select * fro... subject" />
+                <marker date="1732905902441" expanded="true" signature="14331:14404" ph="update `cour... " />
+                <marker date="1732905902441" expanded="true" signature="14876:14916" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="15292:15352" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="15627:15679" ph="update login... " />
+                <marker date="1732905902441" expanded="true" signature="16002:16054" ph="update login... " />
+                <marker date="1732905902441" expanded="true" signature="16435:16499" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="16774:16826" ph="update login... " />
+                <marker date="1732905902441" expanded="true" signature="17151:17205" ph="update login... " />
+                <marker date="1732905902441" expanded="true" signature="17595:17677" ph="select * fro... department" />
+                <marker date="1732905902441" expanded="true" signature="17595:17685" ph="select * fro... feedback" />
+                <marker date="1732905902441" expanded="true" signature="17595:17726" ph="select * fro... feedback" />
+                <marker date="1732905902441" expanded="true" signature="18070:18245" ph="select compl... complaint" />
+                <marker date="1732905902441" expanded="true" signature="18938:18971" ph="update compl... " />
+                <marker date="1732905902441" expanded="true" signature="18938:18977" ph="update compl... " />
+                <marker date="1732905902441" expanded="true" signature="18938:18986" ph="update compl... " />
+                <marker date="1732905902441" expanded="true" signature="18938:18996" ph="update compl... " />
+                <marker date="1732905902441" expanded="true" signature="18938:19009" ph="update compl... " />
+                <marker date="1732905902441" expanded="true" signature="18938:19016" ph="update compl... " />
+                <marker date="1732905902441" expanded="true" signature="18938:19020" ph="update compl... " />
+                <marker date="1732905902441" expanded="true" signature="19543:19573" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="19543:19598" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="19696:19838" ph="select subje... subject" />
+                <marker date="1732905902441" expanded="true" signature="19696:19846" ph="select subje... subject" />
+                <marker date="1732905902441" expanded="true" signature="20174:20225" ph="select * fro... subject_alllocation" />
+                <marker date="1732905902441" expanded="true" signature="20174:20236" ph="select * fro... subject_alllocation" />
+                <marker date="1732905902441" expanded="true" signature="20174:20251" ph="select * fro... subject_alllocation" />
+                <marker date="1732905902441" expanded="true" signature="20174:20259" ph="select * fro... subject_alllocation" />
+                <marker date="1732905902441" expanded="true" signature="20174:20262" ph="select * fro... subject_alllocation" />
+                <marker date="1732905902441" expanded="true" signature="20440:20507" ph="insert into subject_allocation... " />
+                <marker date="1732905902441" expanded="true" signature="20440:20520" ph="insert into subject_allocation... " />
+                <marker date="1732905902441" expanded="true" signature="20440:20529" ph="insert into subject_allocation... " />
+                <marker date="1732905902441" expanded="true" signature="20440:20532" ph="insert into subject_allocation... " />
+                <marker date="1732905902441" expanded="true" signature="20923:21123" ph="select subje... subject_allocation" />
+                <marker date="1732905902441" expanded="true" signature="21419:21463" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="21517:21574" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="21597:21635" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="21658:21716" ph="update login... " />
+                <marker date="1732905902441" expanded="true" signature="22047:22094" ph="select * fro... material" />
+                <marker date="1732905902441" expanded="true" signature="22055:22086" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="22055:22094" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="22137:22186" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="22143:22186" ph="select * fro... material" />
+                <marker date="1732905902441" expanded="true" signature="22213:22266" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="22463:22504" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="22463:22512" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="23344:23464" ph="select `pass... login" />
+                <marker date="1732905902441" expanded="true" signature="23599:23661" ph="update `logi... " />
+                <marker date="1732905902441" expanded="true" signature="23599:23685" ph="update `logi... " />
+                <marker date="1732905902441" expanded="true" signature="24451:24495" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="24703:24751" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="25109:25239" ph="update staff... " />
+                <marker date="1732905902441" expanded="true" signature="25471:25507" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="25471:25515" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="25572:25741" ph="select subje... subject_allocation" />
+                <marker date="1732905902441" expanded="true" signature="25572:25749" ph="select subje... subject_allocation" />
+                <marker date="1732905902441" expanded="true" signature="26332:26406" ph="insert into material... " />
+                <marker date="1732905902441" expanded="true" signature="26332:26417" ph="insert into material... " />
+                <marker date="1732905902441" expanded="true" signature="26332:26428" ph="insert into material... " />
+                <marker date="1732905902441" expanded="true" signature="26332:26436" ph="insert into material... " />
+                <marker date="1732905902441" expanded="true" signature="26332:26439" ph="insert into material... " />
+                <marker date="1732905902441" expanded="true" signature="26641:26731" ph="select mater... material" />
+                <marker date="1732905902441" expanded="true" signature="26641:26738" ph="select mater... material" />
+                <marker date="1732905902441" expanded="true" signature="26897:26937" ph="select mater... material" />
+                <marker date="1732905902441" expanded="true" signature="26897:26944" ph="select mater... material" />
+                <marker date="1732905902441" expanded="true" signature="27243:27274" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="27243:27281" ph="delete from " />
+                <marker date="1732905902441" expanded="true" signature="27514:27550" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="27514:27558" ph="select * fro... staff" />
+                <marker date="1732905902441" expanded="true" signature="27622:27661" ph="select * fro... student" />
+                <marker date="1732905902441" expanded="true" signature="27622:27669" ph="select * fro... student" />
+                <marker date="1732905902441" expanded="true" signature="28080:28176" ph="insert into complaint... " />
+                <marker date="1732905902441" expanded="true" signature="28080:28187" ph="insert into complaint... " />
+                <marker date="1732905902441" expanded="true" signature="28080:28218" ph="insert into complaint... " />
+                <marker date="1732905902441" expanded="true" signature="28080:28232" ph="insert into complaint... " />
+                <marker date="1732905902441" expanded="true" signature="28080:28235" ph="insert into complaint... " />
+                <marker date="1732905902441" expanded="true" signature="28466:28505" ph="select * fro... complaint" />
+                <marker date="1732905902441" expanded="true" signature="28466:28512" ph="select * fro... complaint" />
+                <marker date="1732905902441" expanded="true" signature="28466:28514" ph="select * fro... complaint" />
+                <marker date="1732905902441" expanded="true" signature="28466:28517" ph="select * fro... complaint" />
+                <marker date="1732905902441" expanded="true" signature="28912:29021" ph="insert into feedback... " />
+                <marker date="1732905902441" expanded="true" signature="29479:29525" ph="select * fro... student" />
+                <marker date="1732905902441" expanded="true" signature="29730:29780" ph="select * fro... student" />
+                <marker date="1732905902441" expanded="true" signature="30135:30275" ph="update stude... " />
+                <marker date="1732905902441" expanded="true" signature="30510:30556" ph="select * fro... student" />
+                <marker date="1732905902441" expanded="true" signature="30620:30752" ph="select subje... subject" />
+                <marker date="1732905902441" expanded="true" signature="30932:30991" ph="select id fr... subject_allocation" />
+                <marker date="1732905902441" expanded="true" signature="31069:31167" ph="select mater... material" />
+                <marker date="1732905902441" expanded="true" signature="31506:31560" ph="select cours... student" />
+                <marker date="1732905902441" expanded="true" signature="31621:31668" ph="select * fro... student" />
+                <marker date="1732905902441" expanded="true" signature="32105:32257" ph="insert into complaint... " />
+                <marker date="1732905902441" expanded="true" signature="32500:32548" ph="select * fro... complaint" />
+                <marker date="1732905902441" expanded="true" signature="32975:33084" ph="insert into feedback... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/Admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="779" column="150" lean-forward="false" selection-start-line="779" selection-start-column="150" selection-end-line="779" selection-end-column="150" />
+              <folding>
+                <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1732907425015" expanded="false" signature="33938:33943" ph="&amp;" />
+                <marker date="1732907425015" expanded="false" signature="34636:34641" ph="&amp;" />
+                <marker date="1732907425015" expanded="false" signature="40950:40959" ph="..." />
+                <marker date="1732907425015" expanded="false" signature="41297:41302" ph="&amp;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aaa</find>
+      <find>view_comp</find>
+      <find>view_staf</find>
+      <find>block_sta</find>
+      <find>add_depa</find>
+      <find>add_cour</find>
+      <find>delete_de</find>
+      <find>add_dep</find>
+      <find>delete_dep</find>
+      <find>send_fee</find>
+      <find>change</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DBConnection.py" />
+        <option value="$PROJECT_DIR$/templates/Login.html" />
+        <option value="$PROJECT_DIR$/templates/staff_register.html" />
+        <option value="$PROJECT_DIR$/templates/student_register.html" />
+        <option value="$PROJECT_DIR$/templates/Teacher/ViewStaffProfile.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/UpdateStaffProfile.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/AddMaterial.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/ViewMySubject.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/ViewMaterial.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/ViewStaffStud.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/Send_complaint.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/ViewReply.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/Send_feedback.htm" />
+        <option value="$PROJECT_DIR$/templates/Teacher/StaffHome.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/UpdateStudProfile.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/ViewStudProfile.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/ViewStudSubject.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/ViewStudMaterial.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/ViewStudClassmates.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/Send_stud_feedback.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/Send_stud_complaint.htm" />
+        <option value="$PROJECT_DIR$/templates/Student/StudentHome.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/AdminHome.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewStudent.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewAllocatedStaff.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewFeedback.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/AddCourse.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/AddSubject.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/AddDepartment.html" />
+        <option value="$PROJECT_DIR$/templates/Admin/UpdateDepartment.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewDepatment.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/UpdateSubject.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewCourse.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewSubject.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/UpdateCourse.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ShowSubject.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/SendReply.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewComplaint.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ViewStaff.htm" />
+        <option value="$PROJECT_DIR$/templates/Admin/ChangePasswordAdmin.htm" />
+        <option value="$PROJECT_DIR$/Depart.AI.py" />
+        <option value="$PROJECT_DIR$/templates/Admin/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Depart.AI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Depart.AI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abhi\PycharmProjects\Depart.AI\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Abhi\PycharmProjects\Depart.AI\static\images" />
+      <recent name="C:\Users\Abhi\PycharmProjects\Depart.AI\templates\Admin" />
+      <recent name="C:\Users\Abhi\PycharmProjects\Depart.AI\static" />
+      <recent name="C:\Users\Abhi\PycharmProjects\Depart.AI\templates\Student" />
+      <recent name="C:\Users\Abhi\PycharmProjects\Depart.AI\templates\Teacher" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Depart.AI">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Depart.AI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Depart.AI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Depart.AI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Depart.AI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Depart.AI" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Depart.AI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Depart.AI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Depart.AI" type="PythonConfigurationType" factoryName="Python" singleton="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Depart.AI" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Depart.AI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Depart.AI" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4e7e685-250f-48b3-82cb-4736df2ef384" name="Default" comment="" />
+      <created>1729353289575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729353289575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1038" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.198174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2600229" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/student_register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/DeleteMaterial.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/ChangePasswordStaff.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/OpenPDFMaterial.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/AddMaterial.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="95" lean-forward="true" selection-start-line="5" selection-start-column="95" selection-end-line="5" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/ViewReply.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/Send_complaint.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/Send_feedback.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/ViewStaffProfile.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/UpdateStaffProfile.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/UpdateStudProfile.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="85" lean-forward="false" selection-start-line="21" selection-start-column="85" selection-end-line="21" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/ViewStudProfile.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="76" lean-forward="true" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/StaffHome.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/ViewMySubject.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/ViewMaterial.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/ViewStudMaterial.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Teacher/ViewStaffStud.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/ChangePasswordStudent.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/ViewStudClassmates.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="29" lean-forward="false" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/ViewStudSubject.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/ViewStudReply.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/SendFeedback.htm" />
+    <entry file="file://$PROJECT_DIR$/templates/Student/StudentHome.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="12" lean-forward="false" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/Send_stud_feedback.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Student/Send_stud_complaint.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/VITAP.jpg" />
+    <entry file="file://$PROJECT_DIR$/static/scss/mixins/_grid.scss" />
+    <entry file="file://$PROJECT_DIR$/static/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/AdminHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/businesswoman-using-tablet-analysis.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewStudent.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="35" column="73" lean-forward="false" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewAllocatedStaff.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/AddCourse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="170" lean-forward="false" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="170" />
+          <folding>
+            <element signature="e#218#279#0#HTML" expanded="false" />
+            <element signature="e#396#447#0#HTML" expanded="false" />
+            <element signature="e#596#685#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/AddSubject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="152" lean-forward="false" selection-start-line="12" selection-start-column="152" selection-end-line="12" selection-end-column="152" />
+          <folding>
+            <element signature="e#231#292#0#HTML" expanded="false" />
+            <element signature="e#376#427#0#HTML" expanded="false" />
+            <element signature="e#615#704#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewCourse.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewDepatment.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="27" column="52" lean-forward="false" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/UpdateDepartment.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="172" lean-forward="true" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="172" />
+          <folding>
+            <element signature="e#230#291#0#HTML" expanded="false" />
+            <element signature="e#417#468#0#HTML" expanded="false" />
+            <element signature="e#615#704#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/UpdateSubject.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="172" lean-forward="false" selection-start-line="17" selection-start-column="83" selection-end-line="17" selection-end-column="172" />
+          <folding>
+            <element signature="e#224#285#0#HTML" expanded="false" />
+            <element signature="e#399#450#0#HTML" expanded="false" />
+            <element signature="e#598#687#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/UpdateCourse.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="172" lean-forward="false" selection-start-line="17" selection-start-column="172" selection-end-line="17" selection-end-column="172" />
+          <folding>
+            <element signature="e#222#283#0#HTML" expanded="false" />
+            <element signature="e#393#444#0#HTML" expanded="false" />
+            <element signature="e#592#681#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/AllocateSubject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewSubject.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#tr#0;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#th#4;n#tr#0;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#tr#1;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ShowSubject.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
+          <folding>
+            <element signature="e#147#214#0#HTML" expanded="false" />
+            <element signature="e#496#520#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/AddDepartment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="169" lean-forward="false" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="169" />
+          <folding>
+            <element signature="n#style#0;n#label#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#0;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#tr#1;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewFeedback.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#tr#0;n#table#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewStaff.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ViewComplaint.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="33" column="74" lean-forward="false" selection-start-line="33" selection-start-column="74" selection-end-line="33" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/SendReply.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="21" column="123" lean-forward="true" selection-start-line="21" selection-start-column="107" selection-end-line="21" selection-end-column="123" />
+          <folding>
+            <element signature="e#213#274#0#HTML" expanded="false" />
+            <element signature="e#432#502#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/ChangePasswordAdmin.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="36" column="107" lean-forward="false" selection-start-line="36" selection-start-column="107" selection-end-line="36" selection-end-column="107" />
+          <folding>
+            <element signature="e#178#204#0#HTML" expanded="false" />
+            <element signature="e#297#359#0#HTML" expanded="false" />
+            <element signature="e#523#576#0#HTML" expanded="false" />
+            <element signature="e#718#780#0#HTML" expanded="false" />
+            <element signature="e#939#992#0#HTML" expanded="false" />
+            <element signature="e#1135#1197#0#HTML" expanded="false" />
+            <element signature="e#1362#1415#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Depart.AI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="508" column="28" lean-forward="false" selection-start-line="508" selection-start-column="28" selection-end-line="508" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1732905902441" expanded="true" signature="358:432" ph="select * fro... login" />
+            <marker date="1732905902441" expanded="true" signature="1324:1357" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="1766:1816" ph="select * fro... login" />
+            <marker date="1732905902441" expanded="true" signature="1988:2095" ph="insert into `login`... " />
+            <marker date="1732905902441" expanded="true" signature="2150:2377" ph="insert into `staff`... " />
+            <marker date="1732905902441" expanded="true" signature="2150:2378" ph="insert into `staff`... " />
+            <marker date="1732905902441" expanded="true" signature="2602:2635" ph="select cours... course" />
+            <marker date="1732905902441" expanded="true" signature="3051:3101" ph="select * fro... login" />
+            <marker date="1732905902441" expanded="true" signature="3271:3378" ph="insert into `login`... " />
+            <marker date="1732905902441" expanded="true" signature="3429:3673" ph="insert into `staff`... " />
+            <marker date="1732905902441" expanded="true" signature="4924:4948" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="4924:4971" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="4924:4972" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="4924:4981" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="5205:5280" ph="insert into `department`... " />
+            <marker date="1732905902441" expanded="true" signature="5819:5843" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="6206:6243" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="6206:6252" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="6206:6255" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="6627:6662" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="6627:6669" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="6906:6983" ph="update `depa... " />
+            <marker date="1732905902441" expanded="true" signature="6906:6986" ph="update `depa... " />
+            <marker date="1732905902441" expanded="true" signature="6906:6987" ph="update `depa... " />
+            <marker date="1732905902441" expanded="true" signature="7485:7520" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="7485:7521" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="7485:7528" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="7485:7530" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="7757:7800" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="8509:8549" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="8509:8560" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="8757:8819" ph="insert into `course`... " />
+            <marker date="1732905902441" expanded="true" signature="8757:8832" ph="insert into `course`... " />
+            <marker date="1732905902441" expanded="true" signature="8757:8840" ph="insert into `course`... " />
+            <marker date="1732905902441" expanded="true" signature="8757:8841" ph="insert into `course`... " />
+            <marker date="1732905902441" expanded="true" signature="9354:9451" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="9354:9501" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="9869:9911" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="10272:10303" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="10272:10310" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="10543:10617" ph="update `depa... " />
+            <marker date="1732905902441" expanded="true" signature="11086:11127" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="11086:11134" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="11357:11396" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="12218:12260" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="12218:12268" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="12218:12284" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="12218:12292" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="12486:12582" ph="insert into `subject`... " />
+            <marker date="1732905902441" expanded="true" signature="12486:12591" ph="insert into `subject`... " />
+            <marker date="1732905902441" expanded="true" signature="12486:12594" ph="insert into `subject`... " />
+            <marker date="1732905902441" expanded="true" signature="13108:13305" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="13644:13701" ph="select * fro... course" />
+            <marker date="1732905902441" expanded="true" signature="14063:14095" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="14063:14102" ph="select * fro... subject" />
+            <marker date="1732905902441" expanded="true" signature="14331:14404" ph="update `cour... " />
+            <marker date="1732905902441" expanded="true" signature="14876:14916" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="15292:15352" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="15627:15679" ph="update login... " />
+            <marker date="1732905902441" expanded="true" signature="16002:16054" ph="update login... " />
+            <marker date="1732905902441" expanded="true" signature="16435:16499" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="16774:16826" ph="update login... " />
+            <marker date="1732905902441" expanded="true" signature="17151:17205" ph="update login... " />
+            <marker date="1732905902441" expanded="true" signature="17595:17677" ph="select * fro... department" />
+            <marker date="1732905902441" expanded="true" signature="17595:17685" ph="select * fro... feedback" />
+            <marker date="1732905902441" expanded="true" signature="17595:17726" ph="select * fro... feedback" />
+            <marker date="1732905902441" expanded="true" signature="18070:18245" ph="select compl... complaint" />
+            <marker date="1732905902441" expanded="true" signature="18938:18971" ph="update compl... " />
+            <marker date="1732905902441" expanded="true" signature="18938:18977" ph="update compl... " />
+            <marker date="1732905902441" expanded="true" signature="18938:18986" ph="update compl... " />
+            <marker date="1732905902441" expanded="true" signature="18938:18996" ph="update compl... " />
+            <marker date="1732905902441" expanded="true" signature="18938:19009" ph="update compl... " />
+            <marker date="1732905902441" expanded="true" signature="18938:19016" ph="update compl... " />
+            <marker date="1732905902441" expanded="true" signature="18938:19020" ph="update compl... " />
+            <marker date="1732905902441" expanded="true" signature="19543:19573" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="19543:19598" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="19696:19838" ph="select subje... subject" />
+            <marker date="1732905902441" expanded="true" signature="19696:19846" ph="select subje... subject" />
+            <marker date="1732905902441" expanded="true" signature="20174:20225" ph="select * fro... subject_alllocation" />
+            <marker date="1732905902441" expanded="true" signature="20174:20236" ph="select * fro... subject_alllocation" />
+            <marker date="1732905902441" expanded="true" signature="20174:20251" ph="select * fro... subject_alllocation" />
+            <marker date="1732905902441" expanded="true" signature="20174:20259" ph="select * fro... subject_alllocation" />
+            <marker date="1732905902441" expanded="true" signature="20174:20262" ph="select * fro... subject_alllocation" />
+            <marker date="1732905902441" expanded="true" signature="20440:20507" ph="insert into subject_allocation... " />
+            <marker date="1732905902441" expanded="true" signature="20440:20520" ph="insert into subject_allocation... " />
+            <marker date="1732905902441" expanded="true" signature="20440:20529" ph="insert into subject_allocation... " />
+            <marker date="1732905902441" expanded="true" signature="20440:20532" ph="insert into subject_allocation... " />
+            <marker date="1732905902441" expanded="true" signature="20923:21123" ph="select subje... subject_allocation" />
+            <marker date="1732905902441" expanded="true" signature="21419:21463" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="21517:21574" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="21597:21635" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="21658:21716" ph="update login... " />
+            <marker date="1732905902441" expanded="true" signature="22047:22094" ph="select * fro... material" />
+            <marker date="1732905902441" expanded="true" signature="22055:22086" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="22055:22094" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="22137:22186" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="22143:22186" ph="select * fro... material" />
+            <marker date="1732905902441" expanded="true" signature="22213:22266" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="22463:22504" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="22463:22512" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="23344:23464" ph="select `pass... login" />
+            <marker date="1732905902441" expanded="true" signature="23599:23661" ph="update `logi... " />
+            <marker date="1732905902441" expanded="true" signature="23599:23685" ph="update `logi... " />
+            <marker date="1732905902441" expanded="true" signature="24451:24495" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="24703:24751" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="25109:25239" ph="update staff... " />
+            <marker date="1732905902441" expanded="true" signature="25471:25507" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="25471:25515" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="25572:25741" ph="select subje... subject_allocation" />
+            <marker date="1732905902441" expanded="true" signature="25572:25749" ph="select subje... subject_allocation" />
+            <marker date="1732905902441" expanded="true" signature="26332:26406" ph="insert into material... " />
+            <marker date="1732905902441" expanded="true" signature="26332:26417" ph="insert into material... " />
+            <marker date="1732905902441" expanded="true" signature="26332:26428" ph="insert into material... " />
+            <marker date="1732905902441" expanded="true" signature="26332:26436" ph="insert into material... " />
+            <marker date="1732905902441" expanded="true" signature="26332:26439" ph="insert into material... " />
+            <marker date="1732905902441" expanded="true" signature="26641:26731" ph="select mater... material" />
+            <marker date="1732905902441" expanded="true" signature="26641:26738" ph="select mater... material" />
+            <marker date="1732905902441" expanded="true" signature="26897:26937" ph="select mater... material" />
+            <marker date="1732905902441" expanded="true" signature="26897:26944" ph="select mater... material" />
+            <marker date="1732905902441" expanded="true" signature="27243:27274" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="27243:27281" ph="delete from " />
+            <marker date="1732905902441" expanded="true" signature="27514:27550" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="27514:27558" ph="select * fro... staff" />
+            <marker date="1732905902441" expanded="true" signature="27622:27661" ph="select * fro... student" />
+            <marker date="1732905902441" expanded="true" signature="27622:27669" ph="select * fro... student" />
+            <marker date="1732905902441" expanded="true" signature="28080:28176" ph="insert into complaint... " />
+            <marker date="1732905902441" expanded="true" signature="28080:28187" ph="insert into complaint... " />
+            <marker date="1732905902441" expanded="true" signature="28080:28218" ph="insert into complaint... " />
+            <marker date="1732905902441" expanded="true" signature="28080:28232" ph="insert into complaint... " />
+            <marker date="1732905902441" expanded="true" signature="28080:28235" ph="insert into complaint... " />
+            <marker date="1732905902441" expanded="true" signature="28466:28505" ph="select * fro... complaint" />
+            <marker date="1732905902441" expanded="true" signature="28466:28512" ph="select * fro... complaint" />
+            <marker date="1732905902441" expanded="true" signature="28466:28514" ph="select * fro... complaint" />
+            <marker date="1732905902441" expanded="true" signature="28466:28517" ph="select * fro... complaint" />
+            <marker date="1732905902441" expanded="true" signature="28912:29021" ph="insert into feedback... " />
+            <marker date="1732905902441" expanded="true" signature="29479:29525" ph="select * fro... student" />
+            <marker date="1732905902441" expanded="true" signature="29730:29780" ph="select * fro... student" />
+            <marker date="1732905902441" expanded="true" signature="30135:30275" ph="update stude... " />
+            <marker date="1732905902441" expanded="true" signature="30510:30556" ph="select * fro... student" />
+            <marker date="1732905902441" expanded="true" signature="30620:30752" ph="select subje... subject" />
+            <marker date="1732905902441" expanded="true" signature="30932:30991" ph="select id fr... subject_allocation" />
+            <marker date="1732905902441" expanded="true" signature="31069:31167" ph="select mater... material" />
+            <marker date="1732905902441" expanded="true" signature="31506:31560" ph="select cours... student" />
+            <marker date="1732905902441" expanded="true" signature="31621:31668" ph="select * fro... student" />
+            <marker date="1732905902441" expanded="true" signature="32105:32257" ph="insert into complaint... " />
+            <marker date="1732905902441" expanded="true" signature="32500:32548" ph="select * fro... complaint" />
+            <marker date="1732905902441" expanded="true" signature="32975:33084" ph="insert into feedback... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/Admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="779" column="150" lean-forward="false" selection-start-line="779" selection-start-column="150" selection-end-line="779" selection-end-column="150" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1732907425015" expanded="false" signature="33938:33943" ph="&amp;" />
+            <marker date="1732907425015" expanded="false" signature="34636:34641" ph="&amp;" />
+            <marker date="1732907425015" expanded="false" signature="40950:40959" ph="..." />
+            <marker date="1732907425015" expanded="false" signature="41297:41302" ph="&amp;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

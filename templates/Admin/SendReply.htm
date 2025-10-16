@@ -1,0 +1,29 @@
+{% extends 'Admin/index.html' %}
+{% block body %}
+<html>
+<head>
+</head>
+
+<body>
+<form action="/send_reply_post/{{ id }}" method="post">
+    <table>
+        <tr>
+            <td>
+                <label for="reply" style="font-size: large; font-weight: 900;margin-left: 450px">Reply </label>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <textarea name="reply" id="reply" placeholder="Enter the reply" style="width: 400px;height: 80px;border-width: 2px;margin-left: 450px"></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Send" class="btn btn-primary shadow" style="margin-left: 580px;margin-top: 25px;width: 150px; height: 40px;border-radius: 7px"/>
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
+{% endblock %}

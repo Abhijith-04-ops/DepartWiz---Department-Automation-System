@@ -1,0 +1,44 @@
+{% extends 'admin/index.html' %}
+{% block body %}
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+    function confirmDelete() {
+        return confirm('Are you sure you want to delete this department?');
+    }
+</script>
+<form method="get" action="/view_department">
+<table border="2" class="table text-dark"  >
+  <tr style="background-color: #00BFA6;font-size: large;font-weight: bold" >
+    <th scope="col">#</th>
+    <th scope="col">Department</th>
+    <th scope="col" >Actions </th>
+    <th scope="col" colspan="2" style="padding-left: 130px">Options </th>
+{#    <th scope="col">Reply</th>#}
+{#    <th scope="col">Reply Date</th>#}
+  </tr>
+    {% for i in data %}
+  <tr style="font-weight: 600">
+    <td>&nbsp;{{loop.index}}</td>
+    <td>{{ i.department_name }}</td>
+    <td><a href="/update_department/{{ i.id }}#views" class="btn btn-secondary"> Update</a> </td>
+    <td><a href="/delete_department/{{ i.id }}" class="btn btn-outline-danger" onclick="return confirmDelete();"> Delete</a> </td>
+    <td><a href="/add_course/{{ i.id }}#views" class="btn btn-primary"> Add Course </a> </td>
+{#    <td>&nbsp;{{ i.c_date }}</td>#}
+{#      {% if i.reply == "pending" %}#}
+{#      <td colspan="2"><a href="/send_reply/{{ i.comp_id }}#aa" class="btn btn-primary">REPLY</a></td>#}
+{#      {% else %}#}
+{#    <td>&nbsp;{{ i.reply }}</td>#}
+{#    <td>{{ i.r_date }}</td>#}
+{#  {% endif %}#}
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+</html>
+{% endblock %}

@@ -1,0 +1,50 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<form method="" action="/">
+<table border="1" class="table text-dark">
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Name </th>
+    <th scope="col">Email </th>
+    <th scope="col">Phone </th>
+{#    <th scope="col">DOB </th>#}
+{#    <th scope="col">Gender </th>#}
+{#    <th scope="col">Status </th>#}
+{#    <th scope="col"colspan="2" >Actions </th>#}
+{#    <th scope="col">Options </th>#}
+{#    <th scope="col">Reply</th>#}
+{#    <th scope="col">Reply Date</th>#}
+  </tr>
+    {% for i in data %}
+  <tr>
+    <td>&nbsp;{{loop.index}}</td>
+    <td>{{ i.student_name }}</td>
+    <td>{{ i.student_email }}</td>
+    <td>{{ i.student_phone }}</td>
+{#    <td>{{ i.student_dob }}</td>#}
+{#    <td>{{ i.student_gender }}</td>#}
+{#    <td>{{ i.usertype }}</td>#}
+{#    <td>{% if i.usertype == "student" %}#}
+{#        <a href="/block_stud/{{ i.id }}">Block</a>#}
+{#    {% elif i.usertype == "block" %}#}
+{#        <a href="/unblock_stud/{{ i.id }}">Unblock</a>#}
+{#    {% endif %}</td>#}
+{#    <td><a href="/delete_department/{{ i.id }}"> Delete</a> </td>#}
+{#    <td><a href="/add_course/{{ i.id }}"> Add Course </a> </td>#}
+{#    <td>&nbsp;{{ i.c_date }}</td>#}
+{#      {% if i.reply == "pending" %}#}
+{#      <td colspan="2"><a href="/send_reply/{{ i.comp_id }}#aa" class="btn btn-primary">REPLY</a></td>#}
+{#      {% else %}#}
+{#    <td>&nbsp;{{ i.reply }}</td>#}
+{#    <td>{{ i.r_date }}</td>#}
+{#  {% endif %}#}
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+</html>

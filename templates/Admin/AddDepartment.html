@@ -1,0 +1,25 @@
+{% extends 'admin/index.html' %}
+{% block body %}
+<html>
+<head>
+
+</head>
+<body>
+<form action="/add_department_post" method="post">
+    <table>
+        <tr>
+            <td>
+                <label for="department" style="font-size: large; font-weight: 900;margin-left: 450px">Department :</label>
+                <input type="text" id="department" name="department" placeholder="Enter the department name" style="width: 250px;height: 40px;border-width: 2px">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input class="btn btn-primary shadow" type="submit" value="Add" style="margin-left: 570px;margin-top: 25px;width: 150px; height: 40px;border-radius: 7px"/>
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
+{% endblock %}

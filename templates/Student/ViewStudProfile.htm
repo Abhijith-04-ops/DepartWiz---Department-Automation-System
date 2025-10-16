@@ -1,0 +1,32 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <form action="" method="">
+            <table>
+                <h3> MY STUDENT PROFILE </h3>
+                <tr>
+                    <td><label for="name"> Name :</label></td>
+                    <td><input type="text" name="name" id="name" value="{{ data.student_name }}" disabled  /></td>
+                </tr>
+                <tr>
+                    <td><label for="email"> Email :</label></td>
+                    <td><input type="email" name="email" id="email" value="{{ data.student_email }}" disabled /></td>
+                </tr>
+                <tr>
+                    <td><label for="name"> Phone :</label></td>
+                    <td><input type="tel" name="phone" id="phone" value="{{ data.student_phone }}" disabled /></td>
+                </tr>
+                <tr>
+                    <td><label for="dob"> DOB :</label></td>
+                    <td><input type="date" name="dob" id="dob" value="{{ data.student_dob }}" disabled /></td>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                        <a href="/update_stud_profile"> Click to Update </a>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

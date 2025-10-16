@@ -1,0 +1,45 @@
+{% extends 'admin/index.html' %}
+{% block body %}
+<html>
+<head>
+
+</head>
+
+<body>
+<form method="get" action="/view_complaint">
+<table border="1" class="table text-dark">
+  <tr style="background-color: #00BFA6;font-size: large;font-weight: 900">
+    <th scope="col">#</th>
+    <th scope="col">Username</th>
+    <th scope="col">Date</th>
+    <th scope="col">Complaint</th>
+    <th scope="col">Reply Date</th>
+    <th scope="col">Reply</th>
+{#    <th scope="col"colspan="2" >Actions </th>#}
+{#    <th scope="col">Options </th>#}
+{#    <th scope="col">Reply</th>#}
+{#    <th scope="col">Reply Date</th>#}
+  </tr>
+    {% for i in data %}
+  <tr style="font-weight: 500">
+    <td>&nbsp;{{loop.index}}</td>
+    <td>{{ i.username }}</td>
+    <td>{{ i.comp_date }}</td>
+    <td>{{ i.complaint }}</td>
+{#    <td><a href="/update_department/{{ i.id }}"> Update</a> </td>#}
+{#    <td><a href="/delete_department/{{ i.id }}"> Delete</a> </td>#}
+{#    <td><a href="/add_course/{{ i.id }}"> Add Course </a> </td>#}
+{#    <td>&nbsp;{{ i.c_date }}</td>#}
+      {% if i.reply == "pending" %}
+      <td colspan="2" align="center"><a href="/send_reply/{{ i.id }}#views" class="btn btn-success">REPLY</a></td>
+      {% else %}
+    <td>{{ i.reply_date }}</td>
+    <td>&nbsp;{{ i.reply }}</td>
+  {% endif %}
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+</html>
+{% endblock %}

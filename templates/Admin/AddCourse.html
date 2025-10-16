@@ -1,0 +1,25 @@
+{% extends 'admin/index.html' %}
+{% block body %}
+<html>
+<head>
+
+</head>
+<body>
+<form action="/add_course_post/{{ id }}" method="post">
+     <table>
+         <tr>
+             <td>
+                 <label for="course" style="margin-left: 520px;font-size: large; font-weight: 900">Course : </label>
+                 <input type="text" id="course" name="course" placeholder="Enter the course name" style="width: 250px;height: 40px;border-width: 2px">
+             </td>
+         </tr>
+         <tr>
+             <td>
+                 <input type="submit" class="btn btn-primary shadow" value="Add" style="margin-left: 570px;margin-top: 25px;width: 150px; height: 40px;border-radius: 7px" />
+             </td>
+         </tr>
+     </table>
+</form>
+</body>
+</html>
+{% endblock %}

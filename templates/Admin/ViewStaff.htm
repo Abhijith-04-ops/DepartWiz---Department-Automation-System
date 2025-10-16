@@ -1,0 +1,54 @@
+{% extends 'admin/index.html' %}
+{% block body %}
+<html>
+<head>
+
+</head>
+
+<body>
+<form method="get" action="/view_staff">
+<table border="1" class="table text-dark">
+  <tr style="background-color: #00BFA6;font-size: large;font-weight: 900">
+    <th scope="col">#</th>
+    <th scope="col">Name </th>
+    <th scope="col">Email </th>
+    <th scope="col">Phone </th>
+    <th scope="col">DOB </th>
+    <th scope="col">Gender </th>
+    <th scope="col">Status </th>
+    <th scope="col" colspan="2" style="padding-left: 100px">Actions </th>
+{#    <th scope="col" colspan="2" style="padding-left: 50px">Options </th>#}
+{#    <th scope="col">Reply</th>#}
+{#    <th scope="col">Reply Date</th>#}
+  </tr>
+    {% for i in data %}
+  <tr style="font-weight: 500">
+    <td>&nbsp;{{loop.index}}</td>
+    <td>{{ i.staff_name }}</td>
+    <td>{{ i.staff_email }}</td>
+    <td>{{ i.staff_phone }}</td>
+    <td>{{ i.staff_dob }}</td>
+    <td>{{ i.staff_gender }}</td>
+    <td>{{ i.usertype }}</td>
+    <td><a href="/allocate_subject/{{ i.id }}#views" class="btn btn-primary"> Allocate</a> </td>
+    <td>{% if i.usertype == "staff" %}
+        <a href="/block_staff/{{ i.id }}" class="btn btn-outline-danger">Block</a>
+    {% elif i.usertype == "block" %}
+        <a href="/unblock_staff/{{ i.id }}" class="btn btn-outline-success">Unblock</a>
+    {% endif %}</td>
+
+{#    <td><a href="/delete_staff/{{ i.id }}" class="btn btn-danger">Delete</a> </td>#}
+{#    <td>&nbsp;{{ i.c_date }}</td>#}
+{#      {% if i.reply == "pending" %}#}
+{#      <td colspan="2"><a href="/send_reply/{{ i.comp_id }}#aa" class="btn btn-primary">REPLY</a></td>#}
+{#      {% else %}#}
+{#    <td>&nbsp;{{ i.reply }}</td>#}
+{#    <td>{{ i.r_date }}</td>#}
+{#  {% endif %}#}
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+</html>
+{% endblock %}

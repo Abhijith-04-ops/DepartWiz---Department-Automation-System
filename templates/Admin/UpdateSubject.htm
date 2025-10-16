@@ -1,0 +1,25 @@
+{% extends 'Admin/index.html' %}
+{% block body %}
+<html>
+<head>
+</head>
+
+<body>
+<form action="/update_subject_post/{{ data.id }}" method="post">
+    <table>
+        <tr>
+            <td>
+                <label for="subject" style="font-size: large; font-weight: 900;margin-left: 450px">Subject :</label>
+                <input type="text" id="subject" name="subject" value="{{ data.subject_name }}" style="width: 250px;height: 40px;border-width: 2px" >
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Update" class="btn btn-primary shadow" style="margin-left: 570px;margin-top: 25px;width: 150px; height: 40px;border-radius: 7px" />
+            </td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
+{% endblock %}

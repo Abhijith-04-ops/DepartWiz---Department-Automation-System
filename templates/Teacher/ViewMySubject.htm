@@ -1,0 +1,39 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<form action="">
+<table border="1" class="table text-dark">
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Allocated Subject</th>
+{#    <th scope="col">Course</th>#}
+{#    <th scope="col">Department</th>#}
+    <th scope="col" colspan="2">Actions </th>
+{#    <th scope="col">Reply</th>#}
+{#    <th scope="col">Reply Date</th>#}
+  </tr>
+    {% for i in data %}
+  <tr>
+    <td>&nbsp;{{loop.index}}</td>
+    <td>{{ i.subject_name }}</td>
+{#    <td>{{ i.course_name }}</td>#}
+{#    <td>{{ i.department_name }}</td>#}
+    <td><a href="/add_material/{{ i.id }}"> Add Material</a></td>
+    <td><a href="/view_material/{{ i.id }}">View Materials</a></td>
+{#    <td><a href="/add_subject/{{ i.id }}/{{ i.dept_id }}"> Add Subject </a> </td>#}
+{#    <td>&nbsp;{{ i.c_date }}</td>#}
+{#      {% if i.reply == "pending" %}#}
+{#      <td colspan="2"><a href="/send_reply/{{ i.comp_id }}#aa" class="btn btn-primary">REPLY</a></td>#}
+{#      {% else %}#}
+{#    <td>&nbsp;{{ i.reply }}</td>#}
+{#    <td>{{ i.r_date }}</td>#}
+{#  {% endif %}#}
+  </tr>
+    {% endfor %}
+</table>
+</form>
+</body>
+</html>
